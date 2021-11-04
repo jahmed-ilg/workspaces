@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "./java/M5_test2/"
+		},
+		{
+			"path": "./java/herencia-polimorfisme-i-excepcions-amb-java-jahmed-ilg/"
 		}
 	],
 	"settings": {}

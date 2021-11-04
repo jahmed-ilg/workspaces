@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"java/M5_test1/src",
+			"java/M5_test2/src"
+		]
+	}
+}
